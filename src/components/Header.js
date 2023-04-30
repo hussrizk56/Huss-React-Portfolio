@@ -3,7 +3,7 @@ import Navigation from './Navigation';
 import Project from './pages/Project';
 import AboutMe from './pages/AboutMe';
 import Contact from './pages/Contact';
-import Resume from './pages/Resume';
+import Resume from './pages/Resume.js';
 import Footer from './Footer';
 
 function Header() {
